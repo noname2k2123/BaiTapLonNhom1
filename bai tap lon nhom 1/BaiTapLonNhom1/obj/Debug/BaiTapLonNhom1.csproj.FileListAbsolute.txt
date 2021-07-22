@@ -1,0 +1,22 @@
+D:\lập trình ứng dụng\BaiTapLonNhom1\BaiTapLonNhom1\bin\Debug\BaiTapLonNhom1.exe.config
+D:\lập trình ứng dụng\BaiTapLonNhom1\BaiTapLonNhom1\bin\Debug\BaiTapLonNhom1.exe
+D:\lập trình ứng dụng\BaiTapLonNhom1\BaiTapLonNhom1\bin\Debug\BaiTapLonNhom1.pdb
+D:\lập trình ứng dụng\BaiTapLonNhom1\BaiTapLonNhom1\obj\Debug\BaiTapLonNhom1.csproj.AssemblyReference.cache
+D:\lập trình ứng dụng\BaiTapLonNhom1\BaiTapLonNhom1\obj\Debug\BaiTapLonNhom1.Form1.resources
+D:\lập trình ứng dụng\BaiTapLonNhom1\BaiTapLonNhom1\obj\Debug\BaiTapLonNhom1.Properties.Resources.resources
+D:\lập trình ứng dụng\BaiTapLonNhom1\BaiTapLonNhom1\obj\Debug\BaiTapLonNhom1.csproj.GenerateResource.cache
+D:\lập trình ứng dụng\BaiTapLonNhom1\BaiTapLonNhom1\obj\Debug\BaiTapLonNhom1.csproj.CoreCompileInputs.cache
+D:\lập trình ứng dụng\BaiTapLonNhom1\BaiTapLonNhom1\obj\Debug\BaiTapLonNhom1.exe
+D:\lập trình ứng dụng\BaiTapLonNhom1\BaiTapLonNhom1\obj\Debug\BaiTapLonNhom1.pdb
+D:\lập trình ứng dụng\BaiTapLonNhom1\BaiTapLonNhom1\obj\Debug\BaiTapLonNhom1.FormLogin.resources
+C:\Users\LE QUOC TOAN\Downloads\bai tap lon nhom 1\bai tap lon nhom 1\BaiTapLonNhom1\bin\Debug\BaiTapLonNhom1.exe.config
+C:\Users\LE QUOC TOAN\Downloads\bai tap lon nhom 1\bai tap lon nhom 1\BaiTapLonNhom1\bin\Debug\BaiTapLonNhom1.exe
+C:\Users\LE QUOC TOAN\Downloads\bai tap lon nhom 1\bai tap lon nhom 1\BaiTapLonNhom1\bin\Debug\BaiTapLonNhom1.pdb
+C:\Users\LE QUOC TOAN\Downloads\bai tap lon nhom 1\bai tap lon nhom 1\BaiTapLonNhom1\obj\Debug\BaiTapLonNhom1.csproj.AssemblyReference.cache
+C:\Users\LE QUOC TOAN\Downloads\bai tap lon nhom 1\bai tap lon nhom 1\BaiTapLonNhom1\obj\Debug\BaiTapLonNhom1.Form1.resources
+C:\Users\LE QUOC TOAN\Downloads\bai tap lon nhom 1\bai tap lon nhom 1\BaiTapLonNhom1\obj\Debug\BaiTapLonNhom1.FormLogin.resources
+C:\Users\LE QUOC TOAN\Downloads\bai tap lon nhom 1\bai tap lon nhom 1\BaiTapLonNhom1\obj\Debug\BaiTapLonNhom1.Properties.Resources.resources
+C:\Users\LE QUOC TOAN\Downloads\bai tap lon nhom 1\bai tap lon nhom 1\BaiTapLonNhom1\obj\Debug\BaiTapLonNhom1.csproj.GenerateResource.cache
+C:\Users\LE QUOC TOAN\Downloads\bai tap lon nhom 1\bai tap lon nhom 1\BaiTapLonNhom1\obj\Debug\BaiTapLonNhom1.csproj.CoreCompileInputs.cache
+C:\Users\LE QUOC TOAN\Downloads\bai tap lon nhom 1\bai tap lon nhom 1\BaiTapLonNhom1\obj\Debug\BaiTapLonNhom1.exe
+C:\Users\LE QUOC TOAN\Downloads\bai tap lon nhom 1\bai tap lon nhom 1\BaiTapLonNhom1\obj\Debug\BaiTapLonNhom1.pdb
